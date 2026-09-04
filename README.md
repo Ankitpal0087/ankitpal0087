@@ -1,7 +1,5 @@
 # 💫 Hi 👋 I'm Ankit Pal.
-**CSE Final-Year Student | Software Development
-Enthusiast | Exploring Full-Stack 
-Development & AI/ML | Problem Solver **
+**A passionate  Full stack Engineer ||  **
 
 Email Me 👉 ✉️ **ankitpal233055@gmail.com** 
 
