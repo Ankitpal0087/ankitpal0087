@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **ankitpal233055@gmail.com** 
 
 - 🔭 **I’m currently working on:** https://www.kyraitsolutions.com
-- 🌱 **I’m currently learning:** React.js, TypeScript, Node.js, Express.js, API.
+- 🌱 **I’m currently learning:** React.js, TypeScript, Node.js, Express.js, API,Linux, Networking, AWS, Docker, CI/CD.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankiitpall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitpal27034287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitpal233055@gmail.com) 
